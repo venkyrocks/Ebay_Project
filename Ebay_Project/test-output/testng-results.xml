@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ebay_Project_Hybrid_Framework_Application" duration-ms="63818" started-at="2018-08-06T15:44:13Z" finished-at="2018-08-06T15:45:17Z">
+    <groups>
+    </groups>
+    <test name="Ebay_Project_Hybrid_Framework" duration-ms="63818" started-at="2018-08-06T15:44:13Z" finished-at="2018-08-06T15:45:17Z">
+      <class name="com.ebay.qa.testcases.IndexTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="setUp" is-config="true" duration-ms="28046" started-at="2018-08-06T21:14:13Z" finished-at="2018-08-06T21:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="varifyTitleTest()[pri:1, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="varifyTitleTest" duration-ms="56" started-at="2018-08-06T21:14:42Z" finished-at="2018-08-06T21:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyTitleTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="exit" is-config="true" duration-ms="753" started-at="2018-08-06T21:14:42Z" finished-at="2018-08-06T21:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="setUp" is-config="true" duration-ms="33925" started-at="2018-08-06T21:14:42Z" finished-at="2018-08-06T21:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="varifyLogoTest()[pri:2, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="varifyLogoTest" duration-ms="292" started-at="2018-08-06T21:15:16Z" finished-at="2018-08-06T21:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyLogoTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ebay.qa.testcases.IndexTestCase@66a3ffec]" name="exit" is-config="true" duration-ms="714" started-at="2018-08-06T21:15:17Z" finished-at="2018-08-06T21:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ebay.qa.testcases.IndexTestCase -->
+    </test> <!-- Ebay_Project_Hybrid_Framework -->
+  </suite> <!-- Ebay_Project_Hybrid_Framework_Application -->
+</testng-results>

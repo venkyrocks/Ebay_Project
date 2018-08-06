@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ebay_Project_Hybrid_Framework_Application">
+
+ 
+	<listeners>
+		<listener class-name="com.ebay.qa.ExtentReportListner.ExtentReporterNG"/>
+	</listeners>
+ 
+
+	<test name="Ebay_Project_Hybrid_Framework">
+		<classes>
+			<class name="com.ebay.qa.testcases.IndexTestCase"></class>
+			
+
+		</classes>
+	</test>
+</suite>
